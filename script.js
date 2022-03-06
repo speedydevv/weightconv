@@ -1,3 +1,3 @@
-document.getElementById("inp").addEventListener("input", function (){
-    alert("It Works!")
-})
+document.getElementById("inp").addEventListener("input", function test(){
+    alert("It Works!");
+});
