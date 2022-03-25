@@ -1,0 +1,23 @@
+.wow {
+  width: 100px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #474747;
+  color: whitesmoke;
+}
+
+p {
+  margin: 7px;
+}
+
+input {
+  border-style: none;
+  padding: 7px;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 25px;
+}
